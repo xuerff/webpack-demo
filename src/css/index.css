@@ -1,0 +1,15 @@
+.demo1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+.demo2 {
+    width: 200px;
+    height: 200px;
+    background: orange;
+}
+.box{
+    width: 363px;
+    height: 225px;
+    background-image: url("../img/01.jpg");
+}
