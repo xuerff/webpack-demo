@@ -1,0 +1,23 @@
+.alert {
+  width: 500px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 5px; }
+
+.alert-success {
+  background-color: #dff0d8;
+  border: 1px solid #d6e9c6; }
+
+.alert-info {
+  background-color: #d9edf7;
+  border: 1px solid #bce8f1; }
+
+.alert-warning {
+  background-color: #fcf8e3;
+  border: 1px solid #faebcc; }
+
+.alert-danger {
+  background-color: F2DEDE;
+  border: 1px solid #ebccd1; }
+
+/*# sourceMappingURL=01.css.map */
